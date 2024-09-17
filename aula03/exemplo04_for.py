@@ -1,4 +1,4 @@
-#Localizar valores em uma lista
+# Localizar valores em uma lista
 localizar = "Laranja"
 frutas = ["Maçã", "Banana", "Mamão", "Laranja", "Morango", "Uva", "Maracujá"]
 
